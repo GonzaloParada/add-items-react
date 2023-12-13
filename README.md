@@ -1,4 +1,4 @@
-# Prueba tecnica React + TypeScript
+# Prueba técnica React + TypeScript
 
 Tiempo 1 hora
 
